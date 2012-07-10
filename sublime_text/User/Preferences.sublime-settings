@@ -1,0 +1,29 @@
+{
+	"font_face": "Ubuntu Mono",
+	"font_size": 11.0,
+	"font_options":["subpixel_antialias"],
+	"fold_buttons": false,
+	"rulers":[79], // PEP8 max char per line
+	"translate_tabs_to_spaces": true,
+	"highlight_line": true,
+	"trim_trailing_white_space_on_save": true,
+	"auto_complete": false,
+	"find_selected_text": true,
+	"highlight_modified_tabs": true,
+	"color_scheme": "Packages/Color Scheme - Default/Monokai.tmTheme",
+	"folder_exclude_patterns":
+	[
+		".svn",
+		".git",
+		".hg",
+		"_build",
+		"dist",
+		"build",
+		"env"
+	],
+
+	"draw_white_space": "all",
+	"soda_classic_tabs": true,
+	"theme": "Soda Dark.sublime-theme",
+	"bold_folder_labels": true
+}

@@ -1,0 +1,11 @@
+{
+	"auto_upgrade_last_run": 1341911839,
+	"installed_packages":
+	[
+		"Package Control",
+		"PHP-Twig",
+		"SublimeLinter",
+		"Theme - Soda",
+		"ZenCoding"
+	]
+}
