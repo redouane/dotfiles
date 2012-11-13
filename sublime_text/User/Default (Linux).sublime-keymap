@@ -1,4 +1,16 @@
 [
     { "keys": ["ctrl+shift+i"], "command": "show_panel", "args": {"panel": "console", "toggle": true} },
-    { "keys": ["f5"], "command": "toggle_side_bar" }
+    { "keys": ["f5"], "command": "toggle_side_bar" },
+    { "keys": ["ctrl+&"], "command": "focus_group", "args": { "group": 0 } },
+    { "keys": ["ctrl+é"], "command": "focus_group", "args": { "group": 1 } },
+    { "keys": ["alt+&"], "command": "select_by_index", "args": { "index": 0 } },
+    { "keys": ["alt+é"], "command": "select_by_index", "args": { "index": 1 } },
+    { "keys": ["alt+\""], "command": "select_by_index", "args": { "index": 2 } },
+    { "keys": ["alt+'"], "command": "select_by_index", "args": { "index": 3 } },
+    { "keys": ["alt+("], "command": "select_by_index", "args": { "index": 4 } },
+    { "keys": ["alt+-"], "command": "select_by_index", "args": { "index": 5 } },
+    { "keys": ["alt+è"], "command": "select_by_index", "args": { "index": 6 } },
+    { "keys": ["alt+_"], "command": "select_by_index", "args": { "index": 7 } },
+    { "keys": ["alt+ç"], "command": "select_by_index", "args": { "index": 8 } },
+    { "keys": ["alt+à"], "command": "select_by_index", "args": { "index": 9 } }
 ]
