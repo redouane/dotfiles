@@ -1,0 +1,16 @@
+#various
+export EDITOR=vim
+export VISUAL=vim
+
+#golang
+export PATH=$PATH:/usr/local/go/bin
+export GOPATH=$HOME/code/golang
+export PATH=$PATH:$GOPATH/bin
+
+
+#ansible
+export ANSIBLE_NOCOWS=1
+
+# virtualenvwrapper startup
+export WORKON_HOME=$HOME/.virtualenvs
+export PROJECT_HOME=$HOME/code
